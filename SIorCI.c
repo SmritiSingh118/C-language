@@ -18,4 +18,4 @@ int main()
         printf("we get CI as %f",CI);
     }
 return 0;
-}
+} 
