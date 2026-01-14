@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-int main ()
+int main()
 {
     float p,r,t,a,b,SI,CI;
     printf("enter p,r and t");
