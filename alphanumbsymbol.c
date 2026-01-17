@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-    char a
+    char a;
     printf("enter a character");
     scanf("%c",&a);
     if (a>='A'&& a<='Z'||a>='a' && a<='z')
