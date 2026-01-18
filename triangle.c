@@ -8,7 +8,7 @@ if(s1==s2 && s1==s3)
 {
   printf("equilateral triangle");
 }
-else if(s1==s1 || s1==s3 || s2==s3)
+else if(s1==s2 || s1==s3 || s2==s3)
 {
   printf("isosceles triangle");
 }
