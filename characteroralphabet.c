@@ -19,3 +19,4 @@ void main()
    {
        printf("it is special symbol");
    }
+}
