@@ -4,7 +4,7 @@ void main()
   float s1,s2,s3;
   printf(" enter s1 , s2 and s3");
   scanf("%f%f%f",&s1,&s2,&s3);
-  if(s1==s2 && s1==3)
+  if(s1==s2 && s1==s3)
 {
 printf("equilateral triangle");
 }
