@@ -5,7 +5,7 @@ int main()
 printf("enter the number");
 scanf("%d",&n);
 if(n==1||n==0){
- printf("%d",n);
+   printf("%d",n);
 }
 else{
     a=0;
