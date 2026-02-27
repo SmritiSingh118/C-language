@@ -7,7 +7,7 @@ int main() {
     printf("Enter L and R: ");
     scanf("%d %d", &L, &R);
 
-    for(i = L; i <= R; i++)  {
+    for(i = L; i <= R; i++) {
         int last = i % 10;
 
         if(last == 2 || last == 3 || last == 9) {
