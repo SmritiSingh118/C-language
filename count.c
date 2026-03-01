@@ -7,7 +7,8 @@ int main() {
   return 0;
 }
 
-void countdown(int n) {
+void countdown(int n)
+{
   if (n > 0) {
     printf("%d ", n);
     countdown(n - 1);
