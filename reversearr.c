@@ -12,8 +12,7 @@ int reverse( int a[],int n){
         printf("%d",a[i]);
         
     }
-    return 0;
-}
+    return 0;}
 int main(){
     int i,n;
     printf("enter no of elemnets in the array");
