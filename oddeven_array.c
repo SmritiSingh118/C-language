@@ -5,7 +5,8 @@ int main() {
     scanf("%d", &n);
     int a[n], e[n], o[n];
     int eCount = 0, oCount = 0;
-    for (i = 0; i < n; i++) {
+    for (i = 0; i < n; i++) 
+    {
         printf("Enter element %d: ", i + 1);
         scanf("%d", &a[i]);
     }
