@@ -4,7 +4,8 @@ int find_element(int a[],int n)
     int e,i;
     printf("enter the element u want to find:");
     scanf("%d",&e);
-    for (i=0;i<n;i++){
+    for (i=0;i<n;i++)
+    {
         if(a[i]==e)
         printf("the element found at %d\n",i);
       
