@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
     char a;
     printf("enter a character");
@@ -16,5 +16,5 @@ void main()
     else
     {
         printf("it is special symbol");
-    }
+    } return 0;
 }
