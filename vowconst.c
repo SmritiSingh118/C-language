@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
     char a;
     printf("enter a character");
@@ -18,5 +18,5 @@ void main()
     {
         printf("invalid");
         
-    }
+    }return 0;
 }
