@@ -7,6 +7,6 @@ int main()
     printf("enter second number:");
     scanf("%f",&a2);
     avg=(a1+a2)/2;
-    printf("average of two numbers%f",avg);
+    printf("average of two numbers %f",avg);
     return 0;
 }
