@@ -2,7 +2,7 @@
 int main()
 {
     float a1,a2,avg;
-    printf("enter first number");
+    printf("enter first number:");
     scanf("%f",&a1);
     printf("enter second number");
     scanf("%f",&a2);
