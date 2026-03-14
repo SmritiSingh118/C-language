@@ -12,7 +12,8 @@ int strong(int n){
         s+=fact(d);
         n=n/10;
     }
-    return s;}
+    return s;
+}
 
 int main(){
     int n,m;
