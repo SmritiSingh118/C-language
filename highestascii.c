@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main() 
-{
-    int n,i;
+{int n,i;
     printf("Enter number of characters: ");
     scanf("%d", &n);
     char a[n];
