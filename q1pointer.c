@@ -21,6 +21,6 @@ int main(){
         printf("\nelement - %d\naddress -  %u\n",*A,A);
         A++;
     }
-    printf("\nsum of all elemnet of array -%d",s);
+    printf("\nsum of all elemnet of array : %d",s);
     return 0;
 }
