@@ -18,7 +18,7 @@ int main(){
     A=&a[0];
     for(int i=0;i<n;i++){
         s=s+*A;
-        printf("\nelement - %d\naddress - %u\n",*A,A);
+        printf("\nelement - %d\naddress -  %u\n",*A,A);
         A++;
     }
     printf("\nsum of all elemnet of array -%d",s);
