@@ -3,5 +3,6 @@ int *ptr = myNumbers;
 int i;
 
 for (i = 0; i < 4; i++) {
+  
   printf("%d\n", *(ptr + i));
 }
