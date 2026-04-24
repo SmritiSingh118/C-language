@@ -1,4 +1,4 @@
- #include <stdio.h>
+#include <stdio.h>
  int acending(int a[],int n){
      int i,j,t;
     for(i=0;i<n;i++){
