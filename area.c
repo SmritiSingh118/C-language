@@ -1,6 +1,6 @@
-#include <stdio.h>
-void main()
-{
+ #include <stdio.h>
+ void main()
+ {
     int h,b,area;
     printf("input height and base of triangle:");
     scanf("%d%d",&h,&b);
