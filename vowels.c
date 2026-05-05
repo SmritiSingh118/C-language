@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
     char s[100],c=0;
     printf("Enter first string: ");
