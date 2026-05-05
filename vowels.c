@@ -8,7 +8,8 @@ int main(){
     for(i=0;i<l;i++){
         if(s[i]=='a' || s[i]=='A'  || s[i]=='e' || s[i]=='E' || s[i]=='i' || s[i]=='I' || s[i]=='o' || s[i]=='O' || s[i]=='u' || s[i]=='U')
         countv++;
-        else countc++;
+        else
+        countc++;
     }
     printf("count of vowels - %d\n",countv);
     printf("count of consonants - %d\n",countc);
