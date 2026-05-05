@@ -6,8 +6,7 @@ int main(){
     int l,i,countv=0,countc=0;
     for(l=0;s[l]!='\0';l++){}
     for(i=0;i<l;i++){
-        
-         if(s[i]=='a' || s[i]=='A'  || s[i]=='e' || s[i]=='E' || s[i]=='i' || s[i]=='I' || s[i]=='o' || s[i]=='O' || s[i]=='u' || s[i]=='U')
+        if(s[i]=='a' || s[i]=='A'  || s[i]=='e' || s[i]=='E' || s[i]=='i' || s[i]=='I' || s[i]=='o' || s[i]=='O' || s[i]=='u' || s[i]=='U')
         countv++;
         else countc++;
     }
